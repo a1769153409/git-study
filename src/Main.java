@@ -4,5 +4,6 @@ public class Main {
         System.out.println("张三 third commit");
         System.out.println("张三 third commit");
         System.out.println("hhhhhy")
+        System.out.println("msater revert后提交一次")
     }
 }
